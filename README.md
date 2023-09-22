@@ -1,5 +1,4 @@
 # examen_peso
-
-EXAMEN PROYECTO
+captura
 ![Image text](assests/Captura.png)
 
